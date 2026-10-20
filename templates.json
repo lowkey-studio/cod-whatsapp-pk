@@ -1,0 +1,17 @@
+{
+  "roman": {
+    "confirm": "Assalam o Alaikum {name}!\n{store} se aap ka order {order} mil gaya hai:\n{items}\nTotal: Rs {total} (cash on delivery)\nAddress: {address}, {city}\n\nOrder confirm karne ke liye *1* likh kar bhejein, cancel karne ke liye *2*.\nShukriya!",
+    "followup": "{name}, {store} ki taraf se yaad dihani: aap ka order {order} (Rs {total}) abhi confirm nahi hua.\nConfirm ke liye *1*, cancel ke liye *2* bhej dein.\nJawab na milne par order 24 ghante mein cancel ho jaye ga.",
+    "dispatch": "{name}, aap ka order {order} dispatch ho gaya hai. Rs {total} cash tayyar rakhein. Shukriya, {store}"
+  },
+  "urdu": {
+    "confirm": "السلام علیکم {name}!\n{store} پر آپ کا آرڈر {order} موصول ہو گیا ہے:\n{items}\nکل رقم: {total} روپے (کیش آن ڈیلیوری)\nپتہ: {address}، {city}\n\nآرڈر کی تصدیق کے لیے *1* لکھ کر بھیجیں، منسوخ کرنے کے لیے *2*۔\nشکریہ!",
+    "followup": "{name}، {store} کی طرف سے یاد دہانی: آپ کا آرڈر {order} ({total} روپے) ابھی تصدیق نہیں ہوا۔\nتصدیق کے لیے *1* اور منسوخی کے لیے *2* بھیج دیں۔\nجواب نہ ملنے پر آرڈر 24 گھنٹے میں منسوخ کر دیا جائے گا۔",
+    "dispatch": "{name}، آپ کا آرڈر {order} روانہ کر دیا گیا ہے۔ براہ کرم {total} روپے نقد تیار رکھیں۔ شکریہ، {store}"
+  },
+  "english": {
+    "confirm": "Hi {name}, thank you for your order {order} from {store}:\n{items}\nTotal: Rs {total}, cash on delivery\nAddress: {address}, {city}\n\nPlease reply *1* to confirm or *2* to cancel.\nThank you!",
+    "followup": "Hi {name}, a reminder from {store}: your order {order} (Rs {total}) is not confirmed yet.\nReply *1* to confirm or *2* to cancel.\nIf we do not hear back, the order will be cancelled in 24 hours.",
+    "dispatch": "Hi {name}, your order {order} has been dispatched. Please keep Rs {total} ready in cash. Thank you, {store}"
+  }
+}
